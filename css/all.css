@@ -60,7 +60,7 @@ html{
   }
 }
 body{
-    background-image: url("jpg/p.jpg");
+    background-image: url("p.jpg");
     background-repeat: no-repeat;
     background-size:100%;
     background-attachment:fixed;
